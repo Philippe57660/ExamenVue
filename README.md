@@ -1,25 +1,9 @@
-# todo
+# todo avec vueJS
 
-## Project setup
-```
-npm install
-```
+Pour lancer le serveur :
+1- installer les dépendances avec 'npm install'
+2- Lancer le serveur backend avec la commande 'nodemon server.js'
+(si nodemon n'est pas installer, executer 'npm install -g nodemon')
+3- Lancer le frontend avec 'npm run serve'
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-"# ExamenVue" 
+Note : VOir le fichier .env et l'ajuster avec la configuration de la BD MONGO
