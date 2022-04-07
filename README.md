@@ -1,9 +1,9 @@
 # todo avec vueJS
 
-Pour lancer le serveur :
-1- installer les dépendances avec 'npm install'
-2- Lancer le serveur backend avec la commande 'nodemon server.js'
-(si nodemon n'est pas installer, executer 'npm install -g nodemon')
-3- Lancer le frontend avec 'npm run serve'
+#Pour lancer le serveur :
+#1- installer les dépendances avec 'npm install'
+#2- Lancer le serveur backend avec la commande 'nodemon server.js'
+#(si nodemon n'est pas installer, executer 'npm install -g nodemon')
+#3- Lancer le frontend avec 'npm run serve'
 
-Note : VOir le fichier .env et l'ajuster avec la configuration de la BD MONGO
+#Note : Voir le fichier .env et l'ajuster avec la configuration de la BD MONGO
